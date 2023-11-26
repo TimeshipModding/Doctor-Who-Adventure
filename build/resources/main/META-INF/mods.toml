@@ -1,0 +1,31 @@
+# Mod Loading Info
+modLoader="javafml"
+loaderVersion="[47,)"
+
+# Doctor Who Adventure Config
+license="MIT"
+
+[[mods]]
+modId="dw_adventure"
+version="1"
+displayName="Doctor Who Adventure"
+logoFile="dw_adventure.png"
+credits="Made by Timeship Modding"
+authors="TardisEngineer"
+description='''WIP'''
+
+# Dependency for Forge
+[[dependencies.dw_adventure]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+# Dependency for Minecraft
+[[dependencies.dw_adventure]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
