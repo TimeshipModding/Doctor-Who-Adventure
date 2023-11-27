@@ -2,6 +2,7 @@ package com.timeshipmodding.dw_adventure;
 
 import com.mojang.logging.LogUtils;
 import com.timeshipmodding.dw_adventure.content.block.registries.ModBlocks;
+import com.timeshipmodding.dw_adventure.content.creativemodetab.*;
 import com.timeshipmodding.dw_adventure.content.item.registries.ModItems;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -20,6 +21,13 @@ public class DW_Adventure {
 
         // Register Forge Event Bus
         MinecraftForge.EVENT_BUS.register(this);
+
+        // Register Creative Mode Tabs
+        FunctionalBlocksTab.register(modEventBus);
+        IngredientsTab.register(modEventBus);
+        PlanetBlocksTab.register(modEventBus);
+        SpawnEggsTab.register(modEventBus);
+        TardisTab.register(modEventBus);
 
         // Register the Registry Classes
         ModBlocks.register(modEventBus);
