@@ -276,7 +276,7 @@
 [26Nov2023 18:53:49.105] [Render thread/DEBUG] [net.minecraftforge.common.ForgeI18n/CORE]: Loading I18N data entries: 6430
 [26Nov2023 18:53:49.183] [Render thread/DEBUG] [net.minecraftforge.fml.ModWorkManager/LOADING]: Using 8 threads for parallel mod-loading
 [26Nov2023 18:53:49.217] [Render thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@777d0bc3 - got cpw.mods.cl.ModuleClassLoader@7c6442c2
-[26Nov2023 18:53:49.218] [Render thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for com.timeshipmodding.dw_adventure.DWAdventure
+[26Nov2023 18:53:49.218] [Render thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for com.timeshipmodding.dw_adventure.DW_Adventure
 [26Nov2023 18:53:49.236] [Render thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@777d0bc3 - got cpw.mods.cl.ModuleClassLoader@7c6442c2
 [26Nov2023 18:53:49.238] [Render thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Creating FMLModContainer instance for net.minecraftforge.common.ForgeMod
 [26Nov2023 18:53:49.248] [Render thread/DEBUG] [net.minecraftforge.fml.javafmlmod.FMLJavaModLanguageProvider/LOADING]: Loading FMLModContainer from classloader cpw.mods.modlauncher.TransformingClassLoader@777d0bc3 - got cpw.mods.cl.ModuleClassLoader@7c6442c2
