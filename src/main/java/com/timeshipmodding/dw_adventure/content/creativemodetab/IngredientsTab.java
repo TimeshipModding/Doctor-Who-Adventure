@@ -10,6 +10,9 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 
+import static com.timeshipmodding.dw_adventure.content.item.registries.ModItems.*;
+import static com.timeshipmodding.dw_adventure.content.block.registries.ModBlocks.*;
+
 public class IngredientsTab {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, DW_Adventure.MODID);
 

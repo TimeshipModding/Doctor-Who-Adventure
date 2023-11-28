@@ -3,5 +3,7 @@
   "creativemodetab.dw_adventure.ingredients_tab": "DW Adventure: Ingredients",
   "creativemodetab.dw_adventure.planet_blocks_tab": "DW Adventure: Planet Blocks",
   "creativemodetab.dw_adventure.spawn_eggs_tab": "DW Adventure: Spawn Eggs",
-  "creativemodetab.dw_adventure.tardis_tab": "DW Adventure: Tardis"
+  "creativemodetab.dw_adventure.tardis_tab": "DW Adventure: Tardis",
+
+  "block.dw_adventure.gallifrey_dirt": "Gallifreyan Dirt"
 }

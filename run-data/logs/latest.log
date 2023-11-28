@@ -1,31 +1,31 @@
-[27Nov2023 19:01:51.832] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\Cameron\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, dw_adventure, --all, --output, C:\Users\Cameron\Documents\GitHub\Doctor-Who-Adventure\src\generated\resources, --existing, C:\Users\Cameron\Documents\GitHub\Doctor-Who-Adventure\src\main\resources]
-[27Nov2023 19:01:51.840] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.9 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
-[27Nov2023 19:01:52.028] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
-[27Nov2023 19:01:52.138] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Cameron/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
-[27Nov2023 19:01:52.459] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Cameron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.0\7f9181f85acc66547685a72020713fc8cbde98\javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[27Nov2023 19:01:52.462] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Cameron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.0\7872f5205685fdd26fae39b1be79b0e60ca5b7bd\lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[27Nov2023 19:01:52.464] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Cameron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.0\d501d161cabed08b3c139a2c6217b02a39f3c3e9\mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
-[27Nov2023 19:01:52.467] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Cameron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.0\ffd3c6debac0a388c9e33ac43c9f5eafb91cb466\fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
-[27Nov2023 19:01:52.590] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[27Nov2023 19:01:54.218] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\Cameron\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, dw_adventure, --all, --output, C:\Users\Cameron\Documents\GitHub\Doctor-Who-Adventure\src\generated\resources, --existing, C:\Users\Cameron\Documents\GitHub\Doctor-Who-Adventure\src\main\resources]
-[27Nov2023 19:01:55.573] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [dw_adventure]
-[27Nov2023 19:02:02.406] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
-[27Nov2023 19:02:02.407] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
-[27Nov2023 19:02:02.916] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
-[27Nov2023 19:02:02.927] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 7.825 ms
-[27Nov2023 19:02:03.557] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Cameron/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.2.0_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
-[27Nov2023 19:02:03.558] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Cameron/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.2.0_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
-[27Nov2023 19:02:03.827] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
-[27Nov2023 19:02:03.837] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 9 ms
-[27Nov2023 19:02:03.838] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
-[27Nov2023 19:02:03.846] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 8 ms
-[27Nov2023 19:02:03.847] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: dw_adventure
-[27Nov2023 19:02:03.847] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: dw_adventure finished after 0 ms
-[27Nov2023 19:02:03.847] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: dw_adventure
-[27Nov2023 19:02:03.847] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: dw_adventure finished after 0 ms
-[27Nov2023 19:02:03.847] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id dw_adventure
-[27Nov2023 19:02:03.979] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id dw_adventure finished after 131 ms
-[27Nov2023 19:02:03.980] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id dw_adventure
-[27Nov2023 19:02:03.981] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id dw_adventure finished after 1 ms
-[27Nov2023 19:02:03.982] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 155 ms
-[27Nov2023 19:02:03.986] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 0, old count: 0, new count: 1, removed stale: 0, written: 0
+[28Nov2023 10:53:00.972] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\Cameron\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, dw_adventure, --all, --output, C:\Users\Cameron\Documents\GitHub\Doctor-Who-Adventure\src\generated\resources, --existing, C:\Users\Cameron\Documents\GitHub\Doctor-Who-Adventure\src\main\resources]
+[28Nov2023 10:53:00.984] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.9 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[28Nov2023 10:53:01.182] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[28Nov2023 10:53:01.288] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Cameron/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[28Nov2023 10:53:01.619] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Cameron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.0\7f9181f85acc66547685a72020713fc8cbde98\javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[28Nov2023 10:53:01.622] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Cameron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.0\7872f5205685fdd26fae39b1be79b0e60ca5b7bd\lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[28Nov2023 10:53:01.625] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Cameron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.0\d501d161cabed08b3c139a2c6217b02a39f3c3e9\mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[28Nov2023 10:53:01.630] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Cameron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.0\ffd3c6debac0a388c9e33ac43c9f5eafb91cb466\fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[28Nov2023 10:53:01.775] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[28Nov2023 10:53:03.647] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\Cameron\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, dw_adventure, --all, --output, C:\Users\Cameron\Documents\GitHub\Doctor-Who-Adventure\src\generated\resources, --existing, C:\Users\Cameron\Documents\GitHub\Doctor-Who-Adventure\src\main\resources]
+[28Nov2023 10:53:04.754] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [dw_adventure]
+[28Nov2023 10:53:10.824] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[28Nov2023 10:53:10.825] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[28Nov2023 10:53:11.250] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[28Nov2023 10:53:11.266] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 10.20 ms
+[28Nov2023 10:53:11.839] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Cameron/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.2.0_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[28Nov2023 10:53:11.839] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Cameron/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.0_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.2.0_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[28Nov2023 10:53:12.029] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[28Nov2023 10:53:12.034] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 5 ms
+[28Nov2023 10:53:12.035] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[28Nov2023 10:53:12.131] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 95 ms
+[28Nov2023 10:53:12.131] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: dw_adventure
+[28Nov2023 10:53:12.271] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: dw_adventure finished after 139 ms
+[28Nov2023 10:53:12.271] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: dw_adventure
+[28Nov2023 10:53:12.271] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: dw_adventure finished after 0 ms
+[28Nov2023 10:53:12.272] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id dw_adventure
+[28Nov2023 10:53:12.275] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id dw_adventure finished after 3 ms
+[28Nov2023 10:53:12.275] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id dw_adventure
+[28Nov2023 10:53:12.276] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id dw_adventure finished after 0 ms
+[28Nov2023 10:53:12.277] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 247 ms
+[28Nov2023 10:53:12.284] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 4, old count: 4, new count: 5, removed stale: 0, written: 1
