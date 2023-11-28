@@ -23,7 +23,7 @@ public class PlanetBlocksTab {
     public static final RegistryObject<CreativeModeTab> PLANET_BLOCKS_TAB = CREATIVE_MODE_TABS.register("planet_blocks_tab", () ->
             CreativeModeTab.builder()
                     .title(Component.translatable("creativemodetab.dw_adventure.planet_blocks_tab"))
-                    .icon(() -> new ItemStack(Blocks.BEACON))
+                    .icon(() -> new ItemStack(GALLIFREY_DIRT.get()))
                     // Add items to tab
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(GALLIFREY_DIRT.get());

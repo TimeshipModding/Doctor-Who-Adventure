@@ -5,5 +5,7 @@
   "creativemodetab.dw_adventure.spawn_eggs_tab": "DW Adventure: Spawn Eggs",
   "creativemodetab.dw_adventure.tardis_tab": "DW Adventure: Tardis",
 
-  "block.dw_adventure.gallifrey_dirt": "Gallifreyan Dirt"
+  "block.dw_adventure.gallifrey_dirt": "Gallifreyan Dirt",
+
+  "item.dw_adventure.raw_artron_bottle": "Raw Artron Energy Bottle"
 }

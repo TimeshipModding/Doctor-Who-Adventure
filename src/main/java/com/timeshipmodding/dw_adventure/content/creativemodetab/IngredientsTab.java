@@ -23,10 +23,10 @@ public class IngredientsTab {
     public static final RegistryObject<CreativeModeTab> INGREDIENTS_TAB = CREATIVE_MODE_TABS.register("ingredients_tab", () ->
             CreativeModeTab.builder()
                     .title(Component.translatable("creativemodetab.dw_adventure.ingredients_tab"))
-                    .icon(() -> new ItemStack(Blocks.BEACON))
+                    .icon(() -> new ItemStack(RAW_ARTRON_BOTTLE.get()))
                     // Add items to tab
                     .displayItems((pParameters, pOutput) -> {
-                        pOutput.accept(Blocks.BEACON);
+                        pOutput.accept(RAW_ARTRON_BOTTLE.get());
                     })
                     .build());
 }
