@@ -27,10 +27,14 @@ public class BlockLootTables extends BlockLootSubProvider {
         this.dropSelf(GALLIFREY_SAND.get());
         this.dropSelf(GALLIFREY_COBBLESTONE.get());
         this.dropSelf(GALLIFREY_COBBLED_DEEPSLATE.get());
+        this.dropSelf(GALLIFREY_MOUNTAIN_COBBLESTONE.get());
 
         // Single Item Silk Touch LootTables
         this.add(GALLIFREY_STONE.get(), pBlock -> {
             return this.createSingleItemSilkTouchTable(pBlock, GALLIFREY_COBBLESTONE.get());
+        });
+        this.add(GALLIFREY_MOUNTAIN_STONE.get(), pBlock -> {
+            return this.createSingleItemSilkTouchTable(pBlock, GALLIFREY_MOUNTAIN_COBBLESTONE.get());
         });
         this.add(GALLIFREY_DEEPSLATE.get(), pBlock -> {
             return this.createSingleItemSilkTouchTable(pBlock, GALLIFREY_DEEPSLATE.get());

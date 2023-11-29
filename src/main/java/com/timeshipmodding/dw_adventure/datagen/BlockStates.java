@@ -24,6 +24,8 @@ public class BlockStates extends BlockStateProvider {
         blockWithItem(GALLIFREY_GRAVEL);
         blockWithItem(GALLIFREY_COBBLESTONE);
         blockWithItem(GALLIFREY_COBBLED_DEEPSLATE);
+        blockWithItem(GALLIFREY_MOUNTAIN_STONE);
+        blockWithItem(GALLIFREY_MOUNTAIN_COBBLESTONE);
     }
 
     // Generate Methods

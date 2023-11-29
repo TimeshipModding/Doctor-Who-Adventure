@@ -28,6 +28,8 @@ public class PlanetBlocksTab {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(GALLIFREY_STONE.get());
                         pOutput.accept(GALLIFREY_COBBLESTONE.get());
+                        pOutput.accept(GALLIFREY_MOUNTAIN_STONE.get());
+                        pOutput.accept(GALLIFREY_MOUNTAIN_COBBLESTONE.get());
                         pOutput.accept(GALLIFREY_DEEPSLATE.get());
                         pOutput.accept(GALLIFREY_COBBLED_DEEPSLATE.get());
                         pOutput.accept(GALLIFREY_GRASS_BLOCK.get());

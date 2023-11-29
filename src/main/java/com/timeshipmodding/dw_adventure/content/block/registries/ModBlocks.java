@@ -32,6 +32,8 @@ public class ModBlocks {
     public static final RegistryObject<Block> GALLIFREY_GRAVEL = registerBlock("gallifrey_gravel", () -> new GravelBlock(BlockBehaviour.Properties.copy(Blocks.GRAVEL)));
     public static final RegistryObject<Block> GALLIFREY_COBBLESTONE = registerBlock("gallifrey_cobblestone", () -> new Block(BlockBehaviour.Properties.copy(Blocks.COBBLESTONE)));
     public static final RegistryObject<Block> GALLIFREY_COBBLED_DEEPSLATE = registerBlock("gallifrey_cobbled_deepslate", () -> new Block(BlockBehaviour.Properties.copy(Blocks.COBBLED_DEEPSLATE)));
+    public static final RegistryObject<Block> GALLIFREY_MOUNTAIN_STONE = registerBlock("gallifrey_mountain_stone", () -> new Block(BlockBehaviour.Properties.copy(Blocks.STONE).strength(0.5F, 6.0F)));
+    public static final RegistryObject<Block> GALLIFREY_MOUNTAIN_COBBLESTONE = registerBlock("gallifrey_mountain_cobblestone", () -> new Block(BlockBehaviour.Properties.copy(Blocks.COBBLESTONE).strength(1.0F, 6.0F)));
 
     // Register Methods
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {

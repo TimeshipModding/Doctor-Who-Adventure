@@ -22,7 +22,9 @@ public class MinecraftBlockTags extends BlockTagsProvider {
                 GALLIFREY_STONE.get(),
                 GALLIFREY_COBBLESTONE.get(),
                 GALLIFREY_DEEPSLATE.get(),
-                GALLIFREY_COBBLED_DEEPSLATE.get()
+                GALLIFREY_COBBLED_DEEPSLATE.get(),
+                GALLIFREY_MOUNTAIN_STONE.get(),
+                GALLIFREY_MOUNTAIN_COBBLESTONE.get()
         );
 
         tag(net.minecraft.tags.BlockTags.MINEABLE_WITH_SHOVEL).add(
