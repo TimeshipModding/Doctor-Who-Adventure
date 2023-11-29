@@ -17,8 +17,16 @@ public class BlockStates extends BlockStateProvider {
     @Override
     protected void registerStatesAndModels() {
         blockWithItem(GALLIFREY_DIRT);
+        blockWithItem(GALLIFREY_GRASS_BLOCK);
+        blockWithItem(GALLIFREY_STONE);
+        blockWithItem(GALLIFREY_DEEPSLATE);
+        blockWithItem(GALLIFREY_SAND);
+        blockWithItem(GALLIFREY_GRAVEL);
+        blockWithItem(GALLIFREY_COBBLESTONE);
+        blockWithItem(GALLIFREY_COBBLED_DEEPSLATE);
     }
 
+    // Generate Methods
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {
         simpleBlockWithItem(blockRegistryObject.get(), cubeAll(blockRegistryObject.get()));
     }

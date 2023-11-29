@@ -26,7 +26,14 @@ public class PlanetBlocksTab {
                     .icon(() -> new ItemStack(Blocks.BEACON))
                     // Add items to tab
                     .displayItems((pParameters, pOutput) -> {
+                        pOutput.accept(GALLIFREY_STONE.get());
+                        pOutput.accept(GALLIFREY_COBBLESTONE.get());
+                        pOutput.accept(GALLIFREY_DEEPSLATE.get());
+                        pOutput.accept(GALLIFREY_COBBLED_DEEPSLATE.get());
+                        pOutput.accept(GALLIFREY_GRASS_BLOCK.get());
                         pOutput.accept(GALLIFREY_DIRT.get());
+                        pOutput.accept(GALLIFREY_GRAVEL.get());
+                        pOutput.accept(GALLIFREY_SAND.get());
                     })
                     .build());
 }

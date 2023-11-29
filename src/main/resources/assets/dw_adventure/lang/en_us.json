@@ -5,5 +5,12 @@
   "creativemodetab.dw_adventure.spawn_eggs_tab": "DW Adventure: Spawn Eggs",
   "creativemodetab.dw_adventure.tardis_tab": "DW Adventure: Tardis",
 
-  "block.dw_adventure.gallifrey_dirt": "Gallifreyan Dirt"
+  "block.dw_adventure.gallifrey_dirt": "Gallifreyan Dirt",
+  "block.dw_adventure.gallifrey_grass_block": "Gallifreyan Grass Block",
+  "block.dw_adventure.gallifrey_stone": "Gallifreyan Stone",
+  "block.dw_adventure.gallifrey_deepslate": "Gallifreyan Deepslate",
+  "block.dw_adventure.gallifrey_sand": "Gallifreyan Sand",
+  "block.dw_adventure.gallifrey_gravel": "Gallifreyan Gravel",
+  "block.dw_adventure.gallifrey_cobblestone": "Gallifreyan Cobblestone",
+  "block.dw_adventure.gallifrey_cobbled_deepslate": "Gallifreyan Cobbled Deepslate"
 }

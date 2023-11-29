@@ -28,8 +28,8 @@ public class DataGeneration {
         generator.addProvider(event.includeClient(), new BlockStates(packOutput, existingFileHelper));
         generator.addProvider(event.includeClient(), new ItemModels(packOutput, existingFileHelper));
 
-        BlockTags blockTagGenerator = generator.addProvider(event.includeServer(),
-                new BlockTags(packOutput, lookupProvider, existingFileHelper));
-        generator.addProvider(event.includeServer(), new ItemTags(packOutput, lookupProvider, blockTagGenerator.contentsGetter(), existingFileHelper));
+        MinecraftBlockTags blockTagGenerator = generator.addProvider(event.includeServer(),
+                new MinecraftBlockTags(packOutput, lookupProvider, existingFileHelper));
+        generator.addProvider(event.includeServer(), new MinecraftItemTags(packOutput, lookupProvider, blockTagGenerator.contentsGetter(), existingFileHelper));
     }
 }
