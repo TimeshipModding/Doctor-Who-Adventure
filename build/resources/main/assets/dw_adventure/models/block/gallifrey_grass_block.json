@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "dw_adventure:block/gallifrey_grass_block"
-  }
-}

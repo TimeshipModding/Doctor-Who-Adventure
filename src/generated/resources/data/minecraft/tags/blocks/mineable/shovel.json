@@ -1,8 +1,10 @@
 {
   "values": [
     "dw_adventure:gallifrey_dirt",
-    "dw_adventure:gallifrey_grass_block",
     "dw_adventure:gallifrey_sand",
-    "dw_adventure:gallifrey_gravel"
+    "dw_adventure:gallifrey_gravel",
+    "dw_adventure:gallifrey_clay",
+    "dw_adventure:gallifrey_dirt_path",
+    "dw_adventure:gallifrey_farmland"
   ]
 }

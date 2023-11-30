@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "dw_adventure:block/gallifrey_farmland"
+    },
+    "moisture=1": {
+      "model": "dw_adventure:block/gallifrey_farmland"
+    },
+    "moisture=2": {
+      "model": "dw_adventure:block/gallifrey_farmland"
+    },
+    "moisture=3": {
+      "model": "dw_adventure:block/gallifrey_farmland"
+    },
+    "moisture=4": {
+      "model": "dw_adventure:block/gallifrey_farmland"
+    },
+    "moisture=5": {
+      "model": "dw_adventure:block/gallifrey_farmland"
+    },
+    "moisture=6": {
+      "model": "dw_adventure:block/gallifrey_farmland"
+    },
+    "moisture=7": {
+      "model": "dw_adventure:block/gallifrey_farmland_moist"
+    }
+  }
+}

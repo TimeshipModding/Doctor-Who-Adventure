@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_mirrored",
+  "textures": {
+    "end": "dw_adventure:block/gallifrey_deepslate_top",
+    "side": "dw_adventure:block/gallifrey_deepslate"
+  }
+}

@@ -6,13 +6,15 @@
   "creativemodetab.dw_adventure.tardis_tab": "DW Adventure: Tardis",
 
   "block.dw_adventure.gallifrey_dirt": "Gallifreyan Dirt",
-  "block.dw_adventure.gallifrey_grass_block": "Gallifreyan Grass Block",
   "block.dw_adventure.gallifrey_stone": "Gallifreyan Stone",
   "block.dw_adventure.gallifrey_deepslate": "Gallifreyan Deepslate",
   "block.dw_adventure.gallifrey_sand": "Gallifreyan Sand",
   "block.dw_adventure.gallifrey_gravel": "Gallifreyan Gravel",
   "block.dw_adventure.gallifrey_cobblestone": "Gallifreyan Cobblestone",
   "block.dw_adventure.gallifrey_cobbled_deepslate": "Gallifreyan Cobbled Deepslate",
-  "block.dw_adventure.gallifrey_mountain_stone": "Gallifreyan Mountain Stone",
-  "block.dw_adventure.gallifrey_mountain_cobblestone": "Gallifreyan Mountain Cobblestone"
+  "block.dw_adventure.gallifrey_clay": "Gallifreyan Clay",
+  "block.dw_adventure.gallifrey_dirt_path": "Gallifreyan Dirt Path",
+  "block.dw_adventure.gallifrey_farmland": "Gallifreyan Farmland",
+
+  "item.dw_adventure.gallifrey_clay_ball": "Gallifreyan Clay Ball"
 }

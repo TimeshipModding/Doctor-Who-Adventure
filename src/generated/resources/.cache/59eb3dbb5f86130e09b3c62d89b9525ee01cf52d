@@ -1,9 +1,11 @@
-// 1.20.1	2023-11-29T17:28:40.862642	Loot Tables
+// 1.20.1	2023-11-30T19:18:49.742049	Loot Tables
+b69d251d981c86388d649bfa58393da86f3ab970 data/dw_adventure/loot_tables/blocks/gallifrey_clay.json
 467f7a87021eb543ce0d9600c96ca92410e192dd data/dw_adventure/loot_tables/blocks/gallifrey_cobbled_deepslate.json
 5028341ce7b5742dfe84ad41722013db11a78019 data/dw_adventure/loot_tables/blocks/gallifrey_cobblestone.json
 e442372530e9f1fc27802d0eb8af166f1d332476 data/dw_adventure/loot_tables/blocks/gallifrey_deepslate.json
 92a1ca3dec37386c3cdd5fe806b1cc916edb2181 data/dw_adventure/loot_tables/blocks/gallifrey_dirt.json
-3f32b73b3f88f3050cbadd903f72dd60cce20f93 data/dw_adventure/loot_tables/blocks/gallifrey_grass_block.json
+721ff14da57301e66650d85704de29efb55b401a data/dw_adventure/loot_tables/blocks/gallifrey_dirt_path.json
+4adfa060df853402cee205449458f2c7e0b662f1 data/dw_adventure/loot_tables/blocks/gallifrey_farmland.json
 4eaa788d47dbabc6793af87ae9681db511cd534e data/dw_adventure/loot_tables/blocks/gallifrey_gravel.json
 470de14aa7a237354afa0857fe5896ecc82e52e6 data/dw_adventure/loot_tables/blocks/gallifrey_sand.json
 b59753509526d140064ee8d56b3fa2f8ca5c17f8 data/dw_adventure/loot_tables/blocks/gallifrey_stone.json

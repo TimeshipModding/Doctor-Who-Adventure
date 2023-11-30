@@ -1,7 +1,21 @@
 {
   "variants": {
-    "": {
-      "model": "dw_adventure:block/gallifrey_dirt"
-    }
+    "": [
+      {
+        "model": "dw_adventure:block/gallifrey_dirt"
+      },
+      {
+        "model": "dw_adventure:block/gallifrey_dirt",
+        "y": 90
+      },
+      {
+        "model": "dw_adventure:block/gallifrey_dirt",
+        "y": 180
+      },
+      {
+        "model": "dw_adventure:block/gallifrey_dirt",
+        "y": 270
+      }
+    ]
   }
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dw_adventure:item/gallifrey_clay_ball"
+  }
+}

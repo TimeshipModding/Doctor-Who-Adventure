@@ -23,19 +23,19 @@ public class PlanetBlocksTab {
     public static final RegistryObject<CreativeModeTab> PLANET_BLOCKS_TAB = CREATIVE_MODE_TABS.register("planet_blocks_tab", () ->
             CreativeModeTab.builder()
                     .title(Component.translatable("creativemodetab.dw_adventure.planet_blocks_tab"))
-                    .icon(() -> new ItemStack(Blocks.BEACON))
+                    .icon(() -> new ItemStack(GALLIFREY_DIRT.get()))
                     // Add items to tab
                     .displayItems((pParameters, pOutput) -> {
-                        pOutput.accept(GALLIFREY_STONE.get());
-                        pOutput.accept(GALLIFREY_COBBLESTONE.get());
-                        pOutput.accept(GALLIFREY_MOUNTAIN_STONE.get());
-                        pOutput.accept(GALLIFREY_MOUNTAIN_COBBLESTONE.get());
-                        pOutput.accept(GALLIFREY_DEEPSLATE.get());
-                        pOutput.accept(GALLIFREY_COBBLED_DEEPSLATE.get());
-                        pOutput.accept(GALLIFREY_GRASS_BLOCK.get());
+                        pOutput.accept(GALLIFREY_DIRT_PATH.get());
                         pOutput.accept(GALLIFREY_DIRT.get());
+                        pOutput.accept(GALLIFREY_FARMLAND.get());
+                        pOutput.accept(GALLIFREY_CLAY.get());
                         pOutput.accept(GALLIFREY_GRAVEL.get());
                         pOutput.accept(GALLIFREY_SAND.get());
+                        pOutput.accept(GALLIFREY_STONE.get());
+                        pOutput.accept(GALLIFREY_COBBLESTONE.get());
+                        pOutput.accept(GALLIFREY_DEEPSLATE.get());
+                        pOutput.accept(GALLIFREY_COBBLED_DEEPSLATE.get());
                     })
                     .build());
 }
