@@ -1,0 +1,23 @@
+// 1.21.1	2024-12-09T12:51:58.0113658	Tags for minecraft:block mod id doctorwhoadventure
+2e0a63e60e14319c78e5eaeb3ed9489fbd101861 data/c/tags/block/cobblestones.json
+65fcf7a16361bb221eaa76e85661fff8857556f3 data/c/tags/block/stones.json
+ebe380f3f773709d03aebce299c25aace56fb7d8 data/doctorwhoadventure/tags/block/gallifrey_stone_bricks.json
+8d7a28c29629ee5969e854a913fcf4466234445f data/minecraft/tags/block/animals_spawnable_on.json
+654328a6ad5a7ca10fd725e46f27e4adeefb9d55 data/minecraft/tags/block/azalea_root_replaceable.json
+19bd9dd9f26e7428b1444fd77f6e7bc1b241b48f data/minecraft/tags/block/buttons.json
+e9515a27ae7b83252b0b94eb0eca0b61dece54ca data/minecraft/tags/block/convertable_to_mud.json
+f383af0b727752a588816cd7159dead42862e067 data/minecraft/tags/block/dirt.json
+f383af0b727752a588816cd7159dead42862e067 data/minecraft/tags/block/enderman_holdable.json
+1c80b0e493920e6c4cb3def2c7e2b8841b0bdfb8 data/minecraft/tags/block/mineable/pickaxe.json
+d8c3bb3e4c6c2089780a07302c256c2b954d20ff data/minecraft/tags/block/mineable/shovel.json
+654328a6ad5a7ca10fd725e46f27e4adeefb9d55 data/minecraft/tags/block/moss_replaceable.json
+8f747474f6cabddcd8db235b222192208f925dd2 data/minecraft/tags/block/pressure_plates.json
+654328a6ad5a7ca10fd725e46f27e4adeefb9d55 data/minecraft/tags/block/sculk_replaceable.json
+6bf14b3087eae0edaca0192999226486d9f3fe00 data/minecraft/tags/block/slabs.json
+d4c88918cfb340a7f2c40237fc02f62de35c2cdf data/minecraft/tags/block/stairs.json
+19bd9dd9f26e7428b1444fd77f6e7bc1b241b48f data/minecraft/tags/block/stone_buttons.json
+8f747474f6cabddcd8db235b222192208f925dd2 data/minecraft/tags/block/stone_pressure_plates.json
+8d7a28c29629ee5969e854a913fcf4466234445f data/minecraft/tags/block/valid_spawn.json
+fec1a4653ebd15f7f131d19904f771b99b88e492 data/minecraft/tags/block/walls.json
+8f747474f6cabddcd8db235b222192208f925dd2 data/minecraft/tags/block/wall_post_override.json
+bbff960c84262a31c108d6570801680945228bc4 data/neoforge/tags/block/villager_farmlands.json

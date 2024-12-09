@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "doctorwhoadventure:block/gallifrey_stone_pressure_plate"
+    },
+    "powered=true": {
+      "model": "doctorwhoadventure:block/gallifrey_stone_pressure_plate_down"
+    }
+  }
+}

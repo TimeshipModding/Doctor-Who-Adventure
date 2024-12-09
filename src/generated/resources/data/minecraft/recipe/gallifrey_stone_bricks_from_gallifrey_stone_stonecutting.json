@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "doctorwhoadventure:gallifrey_stone"
+  },
+  "result": {
+    "count": 1,
+    "id": "doctorwhoadventure:gallifrey_stone_bricks"
+  }
+}

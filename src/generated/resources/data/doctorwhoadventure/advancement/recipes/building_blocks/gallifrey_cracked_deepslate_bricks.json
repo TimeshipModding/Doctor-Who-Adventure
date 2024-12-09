@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_gallifrey_deepslate_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "doctorwhoadventure:gallifrey_deepslate_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "doctorwhoadventure:gallifrey_cracked_deepslate_bricks"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_gallifrey_deepslate_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "doctorwhoadventure:gallifrey_cracked_deepslate_bricks"
+    ]
+  }
+}

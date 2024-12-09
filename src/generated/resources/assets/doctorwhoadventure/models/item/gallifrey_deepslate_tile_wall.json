@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "doctorwhoadventure:block/gallifrey_deepslate_tiles"
+  }
+}

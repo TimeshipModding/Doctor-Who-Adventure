@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "doctorwhoadventure:block/gallifrey_polished_deepslate_slab"
+    },
+    "type=double": {
+      "model": "doctorwhoadventure:block/gallifrey_polished_deepslate"
+    },
+    "type=top": {
+      "model": "doctorwhoadventure:block/gallifrey_polished_deepslate_slab_top"
+    }
+  }
+}

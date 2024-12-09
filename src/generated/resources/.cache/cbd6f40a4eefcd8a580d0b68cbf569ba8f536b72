@@ -1,0 +1,12 @@
+// 1.21.1	2024-12-09T12:51:58.0008305	Tags for minecraft:item mod id doctorwhoadventure
+2e0a63e60e14319c78e5eaeb3ed9489fbd101861 data/c/tags/item/cobblestones.json
+65fcf7a16361bb221eaa76e85661fff8857556f3 data/c/tags/item/stones.json
+ebe380f3f773709d03aebce299c25aace56fb7d8 data/doctorwhoadventure/tags/item/gallifrey_stone_bricks.json
+19bd9dd9f26e7428b1444fd77f6e7bc1b241b48f data/minecraft/tags/item/buttons.json
+f383af0b727752a588816cd7159dead42862e067 data/minecraft/tags/item/dirt.json
+00f575db5e82221e670f44328bd4dd56cfd7efe9 data/minecraft/tags/item/slabs.json
+d4c88918cfb340a7f2c40237fc02f62de35c2cdf data/minecraft/tags/item/stairs.json
+19bd9dd9f26e7428b1444fd77f6e7bc1b241b48f data/minecraft/tags/item/stone_buttons.json
+2e0a63e60e14319c78e5eaeb3ed9489fbd101861 data/minecraft/tags/item/stone_crafting_materials.json
+2e0a63e60e14319c78e5eaeb3ed9489fbd101861 data/minecraft/tags/item/stone_tool_materials.json
+dd40f2a396eea6ac408b2185543237be3c2d0f53 data/minecraft/tags/item/walls.json

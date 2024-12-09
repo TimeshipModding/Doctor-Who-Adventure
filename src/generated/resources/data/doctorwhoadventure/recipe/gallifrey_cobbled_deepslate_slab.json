@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "doctorwhoadventure:gallifrey_cobbled_deepslate"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "doctorwhoadventure:gallifrey_cobbled_deepslate_slab"
+  }
+}

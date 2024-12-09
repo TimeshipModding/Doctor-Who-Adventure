@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate"
+      },
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate_mirrored"
+      },
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate",
+        "y": 180
+      },
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate_mirrored",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate",
+        "x": 90
+      },
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate_mirrored",
+        "x": 90
+      },
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "doctorwhoadventure:block/gallifrey_deepslate_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

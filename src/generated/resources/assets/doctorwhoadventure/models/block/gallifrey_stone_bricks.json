@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "doctorwhoadventure:block/gallifrey_stone_bricks"
+  }
+}

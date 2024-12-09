@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "doctorwhoadventure:block/gallifrey_stone",
+    "side": "doctorwhoadventure:block/gallifrey_stone",
+    "top": "doctorwhoadventure:block/gallifrey_stone"
+  }
+}

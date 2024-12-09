@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "doctorwhoadventure:block/gallifrey_dirt",
+    "top": "doctorwhoadventure:block/gallifrey_farmland"
+  }
+}

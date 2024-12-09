@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "doctorwhoadventure:block/gallifrey_polished_deepslate",
+    "side": "doctorwhoadventure:block/gallifrey_polished_deepslate",
+    "top": "doctorwhoadventure:block/gallifrey_polished_deepslate"
+  }
+}

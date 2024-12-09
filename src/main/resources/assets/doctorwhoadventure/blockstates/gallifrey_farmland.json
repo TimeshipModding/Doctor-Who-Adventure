@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "doctorwhoadventure:block/gallifrey_farmland"
+    },
+    "moisture=1": {
+      "model": "doctorwhoadventure:block/gallifrey_farmland"
+    },
+    "moisture=2": {
+      "model": "doctorwhoadventure:block/gallifrey_farmland"
+    },
+    "moisture=3": {
+      "model": "doctorwhoadventure:block/gallifrey_farmland"
+    },
+    "moisture=4": {
+      "model": "doctorwhoadventure:block/gallifrey_farmland"
+    },
+    "moisture=5": {
+      "model": "doctorwhoadventure:block/gallifrey_farmland"
+    },
+    "moisture=6": {
+      "model": "doctorwhoadventure:block/gallifrey_farmland"
+    },
+    "moisture=7": {
+      "model": "doctorwhoadventure:block/gallifrey_farmland_moist"
+    }
+  }
+}

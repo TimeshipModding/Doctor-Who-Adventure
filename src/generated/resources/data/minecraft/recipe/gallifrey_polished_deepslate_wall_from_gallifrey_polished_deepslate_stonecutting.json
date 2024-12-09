@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "doctorwhoadventure:gallifrey_polished_deepslate"
+  },
+  "result": {
+    "count": 1,
+    "id": "doctorwhoadventure:gallifrey_polished_deepslate_wall"
+  }
+}

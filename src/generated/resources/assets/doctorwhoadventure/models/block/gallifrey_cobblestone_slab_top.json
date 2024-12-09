@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "doctorwhoadventure:block/gallifrey_cobblestone",
+    "side": "doctorwhoadventure:block/gallifrey_cobblestone",
+    "top": "doctorwhoadventure:block/gallifrey_cobblestone"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "doctorwhoadventure:block/gallifrey_smooth_stone_slab"
+    },
+    "type=double": {
+      "model": "doctorwhoadventure:block/gallifrey_smooth_stone"
+    },
+    "type=top": {
+      "model": "doctorwhoadventure:block/gallifrey_smooth_stone_slab_top"
+    }
+  }
+}
